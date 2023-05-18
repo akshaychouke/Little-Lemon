@@ -1,10 +1,4 @@
-# Apani Chat APP
-
-<img src="ss1.png" alt="screenshot 1">
-<img src="ss2.png" alt="screenshot 2">
-<img src="ss3.png" alt="screenshot 3">
-<img src="ss4.png" alt="screenshot 4">
-
+# Little Lemon Website
 
 
 
